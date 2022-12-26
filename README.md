@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/kenneth-f-9b3752218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kenneth-f-9b3752218" height="30" width="40" /></a>
 <a href="https://instagram.com/cross_kentropy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cross_kentropy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tech with kenneth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech with kenneth" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCa5YWjINm3O58byF7EFiTzQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech with kenneth" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kenf_connect" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kenf_connect" height="30" width="40" /></a>
 </p>
 
