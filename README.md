@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Kenneth</h1>
 <h3 align="center">A Student Studying Applied AI in Singapore</h3>
+<h3 align="center">AI Applications, Higher Nitec, ITE College West</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-ee-nn&label=Profile%20views&color=0e75b6&style=flat" alt="k-ee-nn" /> </p>
 
