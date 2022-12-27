@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/89140773/209509617-3f0902db-ab0b-474c-8f9e-66bf552002c8.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/89140773/209592061-32af2814-42de-4f77-bd8f-076083c7421b.gif">
 
 <h1 align="center">Hi 👋, I'm Kenneth</h1>
 <h3 align="center">A Student Studying Applied AI in Singapore</h3>
