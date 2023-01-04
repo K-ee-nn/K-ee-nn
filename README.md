@@ -14,11 +14,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Bioinformatics Introduction](https://github.com/K-ee-nn/Bioinformatics-Python)
 
-- 🌱 I’m currently learning **Computational Biology, Deep Learning**
+- 🔭 I’m currently working on [Bioinformatics](https://github.com/K-ee-nn/Bioinformatics)
 
-- 👯 I’m looking to collaborate on **Applied AI in NLP, CV, Computational Biology, Neuroscience**
+- 🌱 I’m currently learning **Bioinformatics, computational biology, genomic sequencing, protein search and prediction**
+
+- 👯 I’m willing to collaborate on **Applied AI in NLP, CV, Bioinformatics, Neuroscience**
 
 - 🤝 I’m looking for help with **Computational Biology**
 
