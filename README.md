@@ -1,9 +1,12 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/89140773/209592061-32af2814-42de-4f77-bd8f-076083c7421b.gif">
 
+
+
 <h1 align="center">Hi 👋, I'm Kenneth</h1>
 <h3 align="center">A Student Studying Applied AI in Singapore</h3>
 <h3 align="center">AI Applications, Higher Nitec, ITE College West</h3>
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/89140773/210532862-be047b0e-1be5-4531-a65c-ab2e19cd88d8.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-ee-nn&label=Profile%20views&color=0e75b6&style=flat" alt="k-ee-nn" /> </p>
 
