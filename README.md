@@ -3,8 +3,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Kenneth</h1>
-<h3 align="center">A Singaporean child studying Applied AI and Biomedical Informatics</h3>
-<h3 align="center">AI Applications, Higher Nitec, ITE College West</h3>
+<h3 align="center">A Singaporean child studying DataScience, Applied AI & Informatics</h3>
+<h3 align="center">DataScience, Ngee Ann Polytechnic, School of Infocomm Technology</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/89140773/210532862-be047b0e-1be5-4531-a65c-ab2e19cd88d8.png">
 
@@ -19,13 +19,13 @@
 
 - 🌱 I’m currently learning **Bioinformatics, computational biology, genomic sequencing, protein search and prediction**
 
-- 👯 I’m willing to collaborate on **Applied AI in NLP, CV, Bioinformatics, Neuroscience**
+- 👯 I’m willing to collaborate on **DataScience & Applied AI on Deep Learning & Bioinformatics Projects**
 
 - 🤝 I’m looking for help with **Computational Biology**
 
 - 👨‍💻 All of my projects are available at [https://github.com/K-ee-nn?tab=repositories](https://github.com/K-ee-nn?tab=repositories)
 
-- 💬 Ask me about **anything related to the field of AI, I'll try to answer :)**
+- 💬 Ask me about **anything related to the field of DataScience & AI, I'll try to answer :)**
 
 - 📫 How to reach me **kenf.connect@gmail.com**
 
